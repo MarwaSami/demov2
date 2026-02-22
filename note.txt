@@ -1,0 +1,89 @@
+Repeat Code
+File 
+Time Consuming
+Productivity
+Documentation 
+
+what changes between old version and new version
+1-
+Version
+22-Feb 9:10 Am
+<nav>
+        <ul>
+            <li>
+                Home
+            </li>
+            <li>
+                About 
+            </li>
+        </ul>
+    </nav>
+
+why ?
+add new feature
+
+2-
+Version 2
+22-Feb 9:15 Am
+<div>
+        <img src="" alt="" srcset="">
+        <main>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, quibusdam neque delectus possimus
+            adipisci deleniti sunt iusto excepturi quaerat facere, facilis dolorum incidunt! Officia, odio.
+        </main>
+    </div>
+
+Software Track changes
+
+Requirment
+- What changes
+- when changes
+- why version
+- who changes
+
+why,who,what,when
+
+Confirm need version=> Save Time
+==============================
+Size
+TrackVersion keep size as small as possible
+==================
+Josphine => 
+V3
+Mahmoud
+V3
+Abrarar
+V3
+Karim
+V3
+ Software Team =>
+
+ Source Control => notify any version when ask?
+=================================================
+Customer
+id
+name
+address
+Order
+id
+price
+customer
+======================================
+Source Control
+Software track everychanges that occurs
+file regards html,css,txt,js,c#,
+like what ,why,when,who
+Source Control
+Documentation
+Keep update 
+Size
+==================================
+Local Source Control
+Documentation
+Size
+Adv : No need online
+Disadv: collbriation
+
+Centeral Source control
+
+
